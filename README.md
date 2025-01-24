@@ -38,9 +38,14 @@ My approach is rooted in teamwork and continuous improvement, focusing on stream
 
 ## 📈 GitHub Statistics  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HottieHotton&theme=default)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HottieHotton&show_icons=true&count_private=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HottieHotton&layout=compact&theme=default)  
+[Credit: denvercoder1](https://git.io/streak-stats)
+
+![GitHub Streak](https://streak-stats.vercel.app?user=HottieHotton&theme=dark&hide_border=true)
+
+[Credit: anuraghazra](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HottieHotton&show_icons=true&count_private=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HottieHotton&layout=compact&theme=dark)  
 
 ---
 
